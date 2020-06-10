@@ -31,7 +31,7 @@ build█Construir
 built█Construido
 launch█Lanzar
 repair█Reparar
-turnExpendable█Turn Expendable
+turnExpendable█Hacer Desechable
 
 capabilities█Capacidades
 reliability█Fiabilidad
@@ -40,7 +40,7 @@ condition█Condición
 notBuiltYet█Aun no construido
 constructing█Construyendo...
 repairing█Reparando...
-flying█Flying now
+flying█Volando...
 dockedToISS█Acoplado a la EEI (Volverá pronto.)
 
 reusable█Reutilizable
@@ -49,14 +49,14 @@ sideboosters█Propulsores laterales
 superheavy█Super pesado
 spaceshipsOnly█Naves espaciales únicamente
 capsulesOnly█Cápsulas únicamente
-fairingRecovery█Fairing recovery
+fairingRecovery█Recuperacion de Carenado
 
-landingNotSupported█Landing not supported!&%You need:<size=12><b>&%-Grid Fins & Landing Legs&%-Battery&%-GPS (for automatic reusability)&%-4 or 9 Advanced Engines</b></size>&%
-capsulesNotSupported█Capsules not supported!&%You need:<size=12><b>&%-Battery&%-GPS&%-4 or 9 Advanced Engines</b></size>&%
-heavyNotSupported█Heavy rocket not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
-fairingCatchingNotSupported█Fairing catching not supported!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
+landingNotSupported█Aterrizage no permitido!&%You need:<size=12><b>&%-Grid Fins & Landing Legs&%-Battery&%-GPS (for automatic reusability)&%-4 or 9 Advanced Engines</b></size>&%
+capsulesNotSupported█Capsulas no permitidas!&%You need:<size=12><b>&%-Battery&%-GPS&%-4 or 9 Advanced Engines</b></size>&%
+heavyNotSupported█Cohetes pesados no permitidos!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
+fairingCatchingNotSupported█Recuperacion de carenado no permitida!&%You need:<size=12><b>&%-Rocket with automatic reusability</b></size>&%
 
-payload█Cargas útiles
+payload█Carga
 crew█Tripulación
 cargo█Cargamento
 
@@ -69,7 +69,7 @@ launchSetup_selectVehicle█Seleccionar vehículo
 launchSetup_selectLaunchPad█Seleccionar plataforma de lanzamiento
 launchSetup_selectLandingZone█Seleccionar zona de aterrizaje
 
-launchSetup_barge█Barge
+launchSetup_barge█Barcaza
 launchSetup_lz1█LZ-1
 launchSetup_lz2█LZ-2
 
@@ -86,7 +86,7 @@ launchSetup_crash█Caída
 failure█Fracaso
 noData█Sin datos
 flights█Vuelos:
-failures█Failures
+failures█Fallos
 partialSuccess█Éxito parcial
 
 launchPanel_telemetry█Telemetría
