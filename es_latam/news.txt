@@ -8,7 +8,7 @@ news_technology_content_p14█Has estado esperando esto, ¿verdad? Tenemos las �
 news_technology_content_p21█{1}: "Los cohetes que estamos desarrollando actualmente están lejos de ser competitivos". Esperemos que no sea un simple alarde para obtener más beneficios en el mercado de valores. ¿Tiene {0} realmente mejores tecnologías? ¿Alguna vez pondremos un pie en Marte? 
 news_technology_content_p22█"Esperamos mirar hacia el futuro. Las mejoras en nuestros cohetes no sólo nos permitirán llevar cargas más grandes a la órbita. Este es el comienzo del camino que la humanidad seguirá en las próximas décadas". - {1}, {0}. 
 news_technology_content_p23█El motor de nueva generación presentado por %company name% acaba de pasar sus primeras pruebas exitosas el año pasado. {1} anunció que dentro de 10 años el motor estará a bordo de uno de los cohetes para probarlo en un vacío espacial. ¿Tiene la competencia algo que temer?
-news_technology_content_p24█"¡Estoy seguro de que funcionará!", dijo {1} en la conferencia de ayer. Él quiere recuperar los cohetes que caen a la Tierra después del lanzamiento de la carga útil en órbita. Un cohete que cae a una velocidad muy alta abriría el paracaídas en el momento adecuado y luego caería en el océano. ¡Este es otro paso hacia vuelos más baratos al espacio y a Marte! 
+news_technology_content_p24█"¡Estoy seguro de que funcionará!", dijo {1} en la conferencia de ayer. Él quiere recuperar los cohetes que caen a la Tierra después del lanzamiento de la carga en órbita. Un cohete que cae a una velocidad muy alta abriría el paracaídas en el momento adecuado y luego caería en el océano. ¡Este es otro paso hacia vuelos más baratos al espacio y a Marte! 
 
 news_technology_content_p31█¡Estamos deseando escuchar más buenas noticias sobre {0}!
 news_technology_content_p32█{1} está contando el dinero, nosotros estamos contando nuestras visitas a la página. ¿Tal vez es hora de introducir anuncios?
@@ -124,20 +124,18 @@ news_yearsummary_beforeRes_content█Este año, al igual que los demás, hubo mu
 
 
 
-news_FundraisingHats_header█{1} has sold 20,000 hats with the {0} logo. The perfect way to finance space business?
-news_FundraisingHats_content█{1} is amazing. Crazy, but still amazing. {0}'s CEO was told by the management to add some cash to the company's budget in the sharpest possible way. A normal CEO would probably lay off a few employees to reduce the cost of hiring. &%&%{1} sold... hats. And quite a lot of them, almost 20,000. Is this the last such an unusual act by {1}?
+news_FundraisingHats_header█{1} ha vendido 20000 gorras con el logo de {0}. ¿La manera perfecta de financiar un negocio espacíal?
+news_FundraisingHats_content█{1} es genial.Loco, pero igual genial. Al CEO de {0} se le pidio, por los ejecutivos, traer fondos para la comapñia de la manera mas efectiva. Un CEO normal se hubiera desecho de algunos empleados para reducir el costo de la plantilla. &%&%{1} vendio... gorras. Y muchas de ellas, unas 20000. ¿Es este un acto tan inusual {1}?
 
-news_FundraisingBricks_header█"Hey, get a Brick!" - a surprising campaign of {0}.
-news_FundraisingBricks_content█{1} did it again. Exactly. After this one we know that {0} is in very good hands, and bankruptcy is unlikely to happen. &%&%{1} this time decided to sell several thousand bricks to improve the financial flow of the company. An additional advantage is that the bricks are almost half the price of rival products. They are also ECO friendly. From the first reports of the company we know that the bricks sell very good.
+news_FundraisingBricks_header█"Oye, ten un ladrillo!" - una sorprendente campaña por {0}.
+news_FundraisingBricks_content█{1} lo hizo de nuevo. Exacto. Despues de esto sabemos que {0} esta en muy buenas manos, y la bancarrota es poco probable de ocurrir. &%&%{1} esta vez decidió vender varios miles de ladrillos para mejorar el flujo de caja de la compañía. Una ventaja adicional es que los ladrillos estan a casi la mitad de precio que productos rivales. Además, tambien son ecológicos. De los primeros reportes de la compañía sabemos que los ladrillos se venderan bien.
 
-news_FundraisingNotFlamethrowers_header█The shipping companies have said that...
-news_FundraisingNotFlamethrowers_content█... they will not transport anything that has "Flamethrower" in its name. What did {1} do? Of course he changed their name to "Not a Flamethrower". &%&%{1} has come up with another idea to make a few extra dollars. This time he made a huge lighter, sold in over 20,000 items! First rumors say he made over 30 million in cash. I have a feeling that {0} is not afraid to go bankrupt anymore.
-
-
-news_FundraisingRocketquilla_header█Fans of strong drinks have pounced on alcohol drinks from {0}.
-news_FundraisingRocketquilla_content█Fans of clothing got hats, builders got cheap bricks, fanatics of TV-sized lighters got (not a) flamethrowers, and those who like to drink got... an explosive mixture of alcohol. &%&%Tequila in the rocket version from {1} has just made its market debut and... quickly sold out adding more than $100 million to the space company's pocket. Did you manage to buy it?
+news_FundraisingNotFlamethrowers_header█Las comapañías de distribución han dicho...
+news_FundraisingNotFlamethrowers_content█... que no transpotaran nada que tenga "Lanza-llamas" en su nombre.¿Que hizo {1}? Pues claramente cambiarles el nombre a "No es un Lanza-llamas". &%&%{1} ha tenido otra gran idea para unos dolares extra. Esta vez hizo encendedores gigantes, y vendio 20000 de ellos! Los primeros rumores dicen que gano 30 millones de dolares. tengo una sensación de que {0} no le teme mas a la bancarrota.
 
 
+news_FundraisingRocketquilla_header█Fans de las bebidas fuertes se han lanzado alcohólicas de {0}.
+news_FundraisingRocketquilla_content█Los fans de la ropa recivieron gorras, los constructores ladrillos baratos, los fanáticos de los encendedores tamaño TV (no un) lanza-llamas, y a quienes les gusta beber... una mezcla esplosiva de alcohol. &%&%Tequila en la versión cohete de {1} acabade de debutar en el mercado y... se vendio por completo añadiendo 100 Millones de dólares a los bolsillos de la compañía. ¿Lograste comprarlo? 
 
 
 
@@ -145,8 +143,10 @@ news_FundraisingRocketquilla_content█Fans of clothing got hats, builders got c
 
 
 
-news_iss_2002q4_header█Another mission of the Atlantis shuttle - the new ITS S1 module has been launched on ISS.
-news_iss_2002q4_content█It is almost 14 m long, 4.6 m wide and 1.8 m high. Weighing more than 14 tons, the ITS S1 module has just joined the ISS station that is being built. The ITS S1 is the first ribbed side segment to be attached on one side to the central ITS S0 segment. Three powerful heat sinks have been mounted on it to cool the station's energy system. Another station communication system has also been installed on the ITS S1 to improve the quality and throughput of audio transmission and several platforms for vacuum experiments. The S1 is also equipped with two cameras, which will facilitate future observation of this sector of the station. The grating has its own on-board computer, which is responsible for cooling control, including monitoring of ammonia tanks, cooling circuits and pump sets. &%&%This is the third mission of the Atlantis shuttle to deliver further parts of the International Space Station that is being built.
+
+
+news_iss_2002q4_header█Otra misión de la lanzadera Atlantis - El nuevi módulo ITS S1 ha sido lanzado a la ESI.
+news_iss_2002q4_content█Mide casí 14 metros de largo, 4.6 m ancho y 1.8 m de alto. pesando mas de 14 toneladass, el módulo ITS S1 se ha unido a la ESI que esta siendo construida. El ITS S1 es el primer segmento lateral corrugado en ser acoplado en uno de los lados del segmento ITS S0 central. Tres poderosos dispersores de calor han sido montados en el para enfriar el sistema de energía de la estación. Otro sistema de comunicación de la estación ha sido installado en el ITS S1 para mejorar la calidad y rendimiento de la transmisión de audio y varias plataformas para experimentos en el vacío. The S1 is also equipped with two cameras, which will facilitate future observation of this sector of the station. The grating has its own on-board computer, which is responsible for cooling control, including monitoring of ammonia tanks, cooling circuits and pump sets. &%&%This is the third mission of the Atlantis shuttle to deliver further parts of the International Space Station that is being built.
 
 news_iss_2007q3_header█Harmony (Node 2) delivered to orbit - will connect Destiny, Columbus, and Kibo modules.
 news_iss_2007q3_content█The mission of the Discovery shuttle, which brought on 23rd October 2007 the Harmony module (Node 2) into orbit, ended successfully. Harmony is a kind of splitter that will combine the three modules together - American, Japanese (will join the station later), and European (Columbus laboratory will be placed in orbit probably at the beginning of 2008) module. On its board it has racks containing instruments responsible for processing the electricity and transmitting it to the modules mentioned above. &%&%By the agreement between NASA and ESA, Node 2 was built by the Italian company Alenia Spazio, in its centre in Turin. 
