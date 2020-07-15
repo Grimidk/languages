@@ -7,7 +7,7 @@ File: general.txt (5)
 Original Translation: confirm_abortRocket█Do you really want to abort that rocket?
 
 File: general.txt (8)
-Original Translation: confirm_exitMainMenu█Other games would tell you here, that your unsaved progress will be lost.
+Original Translation: confirm_exitMainMenu█Other games would tell you here, that your unsaved progress will be lost
 
 File: general.txt (11)
 Original Translation: no█No
