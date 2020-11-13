@@ -39,10 +39,10 @@ staticFire█Fuego Estatico
 built█Construido
 launch█Lanzar
 repair█Reparar
-turnExpendable█Convertir en desechable
+turnExpendable█Último vuelo
 skip█Omitir
 
-turnExpendableTooltip█This rocket will not land after its mission. You will be able to take more payloads in the last flight.
+turnExpendableTooltip█Este cohete no aterrizara despues de la misión. Podras llevar mas cargas en su último vuelo.
 
 detailedCosts█Costos detallados
 leftFairing█Carenado Izquierdo
@@ -68,8 +68,8 @@ marsTraveling█Viajando a <color=#E17055>Marte</color> (Llegando en <b>{0}</b>)
 earthTraveling█Viajando a <color=#64B5F6>Tierra</color> (Llegando en <b>{0}</b>)
 marsLanding█Aterrizando en <color=#E17055>Marte</color>
 earthLanding█Aterrizando en <color=#64B5F6>Tierra</color>
-marsTryingLand█Trying to Land on <color=#E17055>Mars</color>
-earthTryingLand█Trying to Land on <color=#64B5F6>Earth</color>
+marsTryingLand█Tratando de aterrizar en <color=#E17055>Marte</color>
+earthTryingLand█Tratando de aterrizar en <color=#64B5F6>Tierra</color>
 marsLanded█Aterrizó <color=#E17055>Marte</color>
 onDroneship█En un auto-barco. ¡Volvera pronto!
 
@@ -139,7 +139,7 @@ launchSetup_success█Éxito
 launchSetup_crash█Caída
 failure█Fracaso
 noData█Sin datos
-flights█Vuelos:
+flights█Vuelos
 failures█Fracasos
 partialSuccess█Éxito parcial
 
